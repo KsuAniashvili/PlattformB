@@ -1,0 +1,35 @@
+body{font-family: "Comic Sans MS", cursive, sans-serif;}
+h1 {
+  text-transform: uppercase; font-family: "Times New Roman", serif;
+}
+h1, h2, h3, p {
+  text-align: center;
+}
+h3 {
+  background-color: red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 44px;
+  font-style: normal;
+
+}
+.aktiviteter {
+  padding: 0px;
+  background-color: rgb(251,238,204)
+}
+h4 {
+  text-align: center; color: red;
+}
+.aktiviteter img {
+  width:90%;
+}
+.listan {
+list-style-type: none;
+display: flex;
+}
+p {padding: 0;}
+  a {
+  font-size: 50px;
+color:red;
+}
+.titeln {align:center; }
